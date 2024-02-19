@@ -9,4 +9,5 @@
 - create a venv in the backend directory with: "python -m venv name"
 - activate the venv with "name\Scripts\activate"
 - "pip install -r requirements.txt"
+- use command "flask shell" then "db.create_all()" to initialize the database
 - use command "python app.py" to start backend application
